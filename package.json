@@ -21,5 +21,9 @@
         "sass-loader": "^7.1.0",
         "vue": "^2.6.11",
         "vue-template-compiler": "^2.6.11"
-    }
+    },
+    "engines": {
+        "node": "9.11.2",
+        "npm": "6.14.5"
+     }
 }
